@@ -3,7 +3,6 @@ CHAT BOX PROGRAM
 Problem Statement: 
 
 Write a chat box command line program using files  (client server program)  which uses files as medium for their communication. 
-[If you find anything wrong mentioned here either Wrong tasks listed etc, Do let Abhijith know ] 
 
 
 Task 1:
