@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C86672E0-1279-4163-8C57-DDBE6BE435BC}</ProjectGuid>
+    <ProjectGuid>{787980CC-F63E-4F8D-8276-4A7BC53F3AA8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>ChatBoxServer</RootNamespace>
+    <RootNamespace>ChatBoxClient</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
